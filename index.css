@@ -2,8 +2,16 @@
 /*kaskádové programování*/
 /* p = paragraph; * = pro všechny prvky; #něco = tagování; body = tělo stránky; h1, h2 ...; ul, ol, li; a = odkazy */
 /* color; background-color; font-family: Helvetica, Arial, Verdana, sans-serif - víc možností  => bude určitě bezpatkové; margin-left (right,top) odskočení od kraje - px,em,rem,cm(odhad),... */
-/* text-decoration = */
+/* text-decoration = při najetí myší */
 /* používat bezpatkové fonty */
+
+/* blok k ničemu <div>blok</div> <span>řádek</span> - přiřadit class a id, tím změnit chování prvku */
+/*tagy v html <h1 id="něco">nadpis</h1> */
+
+/* go live - web online jak???*/
+
+
+
 p {
   color: green;
 }
