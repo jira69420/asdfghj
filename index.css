@@ -1,7 +1,19 @@
 /*css komentář*/
+/*kaskádové programování*/
+/* p = paragraph; * = pro všechny prvky; #něco = tagování; body = tělo stránky; h1, h2 ...; ul, ol, li; a = odkazy */
+/* color; background-color; font-family: Helvetica, Arial, Verdana, sans-serif - víc možností  => bude určitě bezpatkové; margin-left (right,top) odskočení od kraje - px,em,rem,cm(odhad),... */
+/* text-decoration = */
+/* používat bezpatkové fonty */
 p {
   color: green;
 }
 #prvni {
   color: red;
+}
+ul,ol {
+  margin: 1cm;
+}
+a {
+  color: orange;
+  text-decoration: underline;
 }
